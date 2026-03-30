@@ -14,12 +14,17 @@
 
 
 ## Tabulation
+![WhatsApp Image 2026-03-30 at 6 17 46 PM](https://github.com/user-attachments/assets/abf83d5d-426d-4dca-aa68-38488e437614)
+
+![WhatsApp Image 2026-03-30 at 6 18 28 PM](https://github.com/user-attachments/assets/bc0ae742-bf4d-4295-b242-42940f8e1afb)
+
 
 ## Graph
+## Result
 
-<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+Thus the Wein bridge oscillator was designed and simulated using LTspice
 
-Practical frequency of Oscillation =
+Practical frequency of Oscillation = 1.58KHz
 
 
-Theoritical Frequency of Oscillation =
+Theoritical Frequency of Oscillation = 1.59KHz
