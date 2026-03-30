@@ -25,6 +25,9 @@
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Tabulation
+![WhatsApp Image 2026-03-30 at 5 49 55 PM](https://github.com/user-attachments/assets/d8fc048f-0a0b-4e66-b307-65a26d0eae6b)
+
+![WhatsApp Image 2026-03-30 at 6 31 22 PM](https://github.com/user-attachments/assets/a489035b-6cd4-4eaa-b324-022e59f80ea1)
 
 ## Graph
 
@@ -32,6 +35,7 @@
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
 
-**BANDWIDTH =**
+**VOLTAGE GAIN=** 8-9dB
+
+**BANDWIDTH =** 100KHz
